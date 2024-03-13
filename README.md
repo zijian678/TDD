@@ -8,3 +8,5 @@ The are two steps to reproduce our results.
 
 Please use your own LLaMA access token while experimenting with it.
 
+## Acknowledgement
+The code for contrastive explanation baselines is from [interpret-lm](https://github.com/kayoyin/interpret-lm). The dataset is from [BLiMP](https://github.com/alexwarstadt/blimp). We thank the authors for their excellent contributions!
