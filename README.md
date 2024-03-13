@@ -13,3 +13,14 @@ Please use your own LLaMA access token while experimenting with it.
 
 ## Acknowledgement
 The code for contrastive explanation baselines is from [interpret-lm](https://github.com/kayoyin/interpret-lm). The dataset is from [BLiMP](https://github.com/alexwarstadt/blimp). We thank the authors for their excellent contributions!
+
+## Citation
+If you find our work useful, please consider citing TDD:
+```
+@inproceedings{feng2024tdd,
+  title={Unveiling and Manipulating Prompt Influence in Large Language Models},
+  author={Feng, Zijian and Zhou, Hanzhang and Zhu, Zixiao and Qian, Junlang and Mao, Kezhi},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024}
+}
+```
