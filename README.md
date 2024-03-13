@@ -1,6 +1,9 @@
 # TDD
 Unveiling and Manipulating Prompt Influence in Large Language Models (ICLR 2024)
 
+TDD explores using **token distributions** to explain **autoregressive LLMs**. 
+Our another work, PromptExplainer, explains **masked language models such as BERT and RoBERTa using token distributions**. Welcome to check [PromptExplainer](https://github.com/zijian678/PromptExplainer)!
+
 ## Reproduce our results
 The are two steps to reproduce our results.
 * Step 1: Generate saliency scores using TDD_step1.py. You may choose different datasets and LLMs to generate saliency scores.
